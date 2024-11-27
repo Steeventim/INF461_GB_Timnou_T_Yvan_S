@@ -14,7 +14,7 @@ Avant de commencer, assurez-vous que les éléments suivants sont installés sur
   #Installation
 - Cloner le projet :
 - Clonez le dépôt depuis GitHub en exécutant la commande suivante dans un terminal :
-  "git clone [<URL_DU_DEPOT>](https://github.com/Steeventim/INF461_GB_Timnou_T_Yvan_S.git)"
+  "git clone (https://github.com/Steeventim/INF461_GB_Timnou_T_Yvan_S.git)"
   Importer dans NetBeans (optionnel) :
 
 #Ouvrez NetBeans.
