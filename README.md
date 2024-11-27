@@ -27,3 +27,4 @@ Si le projet utilise des configurations spécifiques (comme des fichiers de prop
 Ouvrez le projet dans NetBeans.
 Cliquez avec le bouton droit sur le projet dans le panneau Projects.
 Sélectionnez Run pour exécuter l'application.
+# Timnou_Tchuinte_Yvan_Steeve_GroupeB
